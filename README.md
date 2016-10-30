@@ -39,5 +39,5 @@ Work in progress
 - Filter the results in a list of buckets
 - Ability to group information by regions
 - Multithreading for processing bucket list information quicker when large volumes of files
-- Add testing
+- Add unit testing
 
