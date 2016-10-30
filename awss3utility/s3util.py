@@ -1,7 +1,6 @@
 import os
 import collections
 import datetime
-import mimetypes
 import pytz
 import boto
 from boto.ec2.cloudwatch import CloudWatchConnection
