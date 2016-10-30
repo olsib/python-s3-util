@@ -36,8 +36,8 @@ print = bucket_obj.publish_stats()
 
 
 Work in progress
-- Filter the results in a list of buckets
+- Filter the results in a list of buckets (there's a bug with s3 bucket name characters in boto if special chars used.)
 - Ability to group information by regions
 - Multithreading for processing bucket list information quicker when large volumes of files
-- Add unit testing
+- Add unit testing	
 
